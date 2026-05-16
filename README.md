@@ -1,4 +1,4 @@
-# Sistem Monitoring SUhu dan Kelembaban Cbai
+# Sistem Monitoring SUhu dan Kelembaban Cabai
 Project monitoring kelembapan tanah dan suhu berbasis ESP32
 ## Fitur
 - Monitoring suhu
